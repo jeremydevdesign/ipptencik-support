@@ -1,0 +1,14 @@
+# This repo is PUBLIC and hosts only the IPPT Encik support and privacy pages.
+# No app source, no build output, no data ever belongs here.
+#
+# Everything is ignored by default; the site files are allowlisted below.
+# Adding a new page means adding an explicit exception, so nothing gets
+# published by accident.
+
+*
+
+!index.html
+!privacy.html
+!style.css
+!.gitignore
+!README.md
